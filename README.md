@@ -1,2 +1,2 @@
 # LCD-Custom-characters
-I2C
+Displaying custom characters on LCD with I2C communication
